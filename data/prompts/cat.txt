@@ -1,0 +1,5 @@
+A {0} {1} with white color
+A {0} {1} on the tree branch
+A woman holding a {0} {1}
+A {0} {1} driving the car
+A {0} {1} in straw hat
