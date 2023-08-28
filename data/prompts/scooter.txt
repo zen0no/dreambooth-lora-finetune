@@ -1,0 +1,6 @@
+A man driving {0} {1}
+A {0} {1} with white wheels
+A {0} {1} on the mars
+A {0} {1} in the airplane
+Man running away from a dog on a {0} {1}
+White {0} {1}
