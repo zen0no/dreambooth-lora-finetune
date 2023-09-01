@@ -1,0 +1,4 @@
+A man with {0} {1}
+A {0} {1} folded in case
+A {0} {1} with broken arm
+Dog wearing {0} {1}
